@@ -16,10 +16,11 @@ un de l’art sur les fonctionnalités de ce type de logiciel un choix sera fait
 
 ## Auteurs
 
-- [@PICOULET--SONDER Alexandre](https://github.com/alex-picoulet)
-- [@JULIARD-VARAILHON DE LA FILOLI Timéo](https://github.com/timouchee)
-- [@RODRÍGUEZ SINCLAIR Juan David](https://github.com/JDRSinclair)
 - [@DUCASSE Rafael](https://github.com/DucasseRafael732)
+- [@JULIARD-VARAILHON DE LA FILOLI Timéo](https://github.com/timouchee)
+- [@PICOULET--SONDER Alexandre](https://github.com/alex-picoulet)
+- [@RODRÍGUEZ SINCLAIR Juan David](https://github.com/JDRSinclair)
+
 
 
 ## Commentaires
