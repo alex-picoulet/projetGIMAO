@@ -2,8 +2,7 @@
 
 ## Sujet et objectifs
 
-Le projet GIMAO a pour objectif principal de concevoir un logiciel web libre permettant de réaliser une GMAO (gestion de maintenance assistée par ordinateur). Après
-un de l’art sur les fonctionnalités de ce type de logiciel un choix sera fait pour assurer des fonctionnalités essentielles de ce type d’outils.
+Le projet GIMAO a pour objectif principal de concevoir un logiciel web libre permettant de réaliser une GMAO (gestion de maintenance assistée par ordinateur).
 
 
 
